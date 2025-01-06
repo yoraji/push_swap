@@ -35,4 +35,5 @@
     │   ├── Makefile
     │   └── checker_utils.c
 
+    and i highly recommand to work with doubly linkedlist (for travarsing both direction) 
     IN THE END I WILL PUT ALL THE LINK OF ALL RESOURCES THAT HELP UNDERSTAND THIS PROJECT :)  
