@@ -9,7 +9,7 @@
     number of operations.
 
     and from my precpective i think this is the best structer for this projct:
-        (if you dont wanna get lost)
+        (if you dont wanna get lost with all those files )...
 
     push_swap/
     ├── Makefile
